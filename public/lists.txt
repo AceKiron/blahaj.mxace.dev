@@ -1,0 +1,2 @@
+/single-letters.txt
+https://raw.githubusercontent.com/WalkTheEarth/Blahaj/refs/heads/main/names.txt

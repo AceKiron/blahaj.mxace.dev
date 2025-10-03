@@ -1,2 +1,3 @@
 /single-letters.txt
 https://raw.githubusercontent.com/WalkTheEarth/Blahaj/refs/heads/main/names.txt
+https://gist.githubusercontent.com/luna-dj/4134598f28debe088aa9b35c3bb5afcf/raw/251696c5bae5e753665113a532e3867c31eabfe8/gistfile1.txt

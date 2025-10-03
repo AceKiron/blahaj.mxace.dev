@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help improve our website
 title: "[Bug] "
 labels: Bug
-assignees: AceKiron
+assignees: EnbyAce
 
 ---
 

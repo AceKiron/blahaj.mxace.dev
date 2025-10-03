@@ -2,7 +2,7 @@
 
 ## About this project
 
-This website merely helps you pick a name for your blahaj, by using various [lists](https://github.com/AceKiron/blahaj.mxace.dev/blob/main/public/lists.txt).
+This website merely helps you pick a name for your blahaj, by using various [lists](https://github.com/EnbyAce/blahaj.mxace.dev/blob/main/public/lists.txt).
 
 ## Add/suggest names
 

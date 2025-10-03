@@ -31,7 +31,7 @@ export default function App() {
                 <h1 className="text-center text-xl md:text-2xl lg:text-3xl xl:text-4xl">
                     🏳️‍⚧️
                     {" "}
-                    <a href="https://github.com/AceKiron/blahaj.mxace.dev" target="_blank" className="underline">Blahaj name picker</a>
+                    <a href="https://github.com/EnbyAce/blahaj.mxace.dev" target="_blank" className="underline">Blahaj name picker</a>
                     {" "}
                     🦈
                 </h1>
